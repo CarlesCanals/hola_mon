@@ -1,13 +1,23 @@
-# Proyecto de Página Web Básica
+# Projecte Bàsic en HTML
 
-## Descripción
+Aquest és un projecte senzill que mostra l'estructura bàsica d'un document HTML. Es pot utilitzar com a punt de partida per a nous projectes o per aprendre els fonaments d'HTML.
 
-Este proyecto consiste en una página web básica creada con HTML y CSS. La página incluye un menú de navegación superior y contenido de ejemplo para demostrar la estructura básica de un documento HTML.
+## Contingut del Projecte
 
-## Características
+El projecte inclou els següents arxius:
 
-- **Menú de Navegación**: Un menú de navegación superior con enlaces a diferentes secciones de la página.
-- **Contenido de Ejemplo**: Texto de bienvenida y una breve descripción.
-- **Estilo Básico**: Estilos CSS básicos para el menú de navegación y el contenido.
+- **index.html**: El fitxer principal amb l'estructura bàsica d'un document HTML.
+- **styles.css** *(opcional)*: Un arxiu CSS per afegir estil al document HTML.
+- **script.js** *(opcional)*: Un arxiu JavaScript per afegir interactivitat.
 
-## Estructura del Proyecto
+## Característiques
+
+- Estructura HTML5 estàndard.
+- Ús de les etiquetes principals com `<header>`, `<nav>`, `<main>`, `<footer>`.
+- Compatible amb tots els navegadors moderns.
+
+## Com utilitzar el projecte
+
+1. **Clonar el repositori**:
+   ```bash
+   git clone https://github.com/usuari/projecte-html.git
